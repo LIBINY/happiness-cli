@@ -1,7 +1,7 @@
 {
-  "name": "happy-cli",
-  "version": "1.0.0",
-  "description": "simple cli",
+  "name": "happiness-cli",
+  "version": "1.0.2",
+  "description": "Provide a tool for create a project",
   "main": "index.js",
   "bin": {
     "happy": "./bin/cli.js"
@@ -14,11 +14,11 @@
     "lib"
   ],
   "keywords": [
-    "happy-cli",
-    "happy",
+    "happiness-cli",
+    "happiness",
     "脚手架"
   ],
-  "author": "happy",
+  "author": "libiny",
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
